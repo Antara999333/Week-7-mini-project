@@ -5,7 +5,7 @@ setup(
     version="0.1",
     description="A command-line tool to interact with a MySQL database",
     author="Antara Bhide",
-    url="",
+    url="https://github.com/Antara999333/Week-7-mini-project/tree/main/tool",
     packages=find_packages(),
     entry_points={
         'console_scripts': [
