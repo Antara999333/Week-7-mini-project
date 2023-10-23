@@ -12,7 +12,7 @@ To set up and run the project, follow these steps:
 1. Clone the Repository:
 Clone this repository to your local machine by running the following command in your terminal:
 
-git clone "
+git clone "https://github.com/Antara999333/Week-7-mini-project/tree/main/tool"
 
 2. Navigate to the Project Directory:
 Change your working directory to the project folder by using the cd command:
